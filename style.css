@@ -2,3 +2,9 @@ body{
     text-align: center;
     align-items: center;
 }
+
+#kotouce{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
